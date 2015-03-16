@@ -1,0 +1,102 @@
+[
+	{
+		"name":"Aparat fotograficzny",
+		"link":"",
+		"comment":"Nie za duży ;)"
+	},
+	{
+		"name":"Ekspres do kawy",
+		"link":"http://www.saeco-espresso.pl/pl_PL/automatic-espresso-machine/espresso-machine/Intelia/HD8752_89",
+		"comment":""
+	},
+	{
+		"name":"Raspberry PI",
+		"link":"http://www.raspberrypi.org/",
+		"comment":""
+	},
+	{
+		"name":"Slice",
+		"link": "http://shop.fiveninjas.com/",
+		"comment":"Najlepiej czarny :)"
+	},
+	{
+		"name":"Materac",
+		"link":"",
+		"comment":"Sprężynowy, kieszeniowy, 140cmx200cm"
+	},
+	{
+		"name":"Kołdra letnia",
+		"link":"",
+		"comment":"Szerokość 140cm, Małżeńska :)"
+	},
+	{
+		"name":"Kołdra zimowa",
+		"link":"",
+		"comment":"Szerokość 140cm, Małżeńska :)"
+	},
+	{
+		"name":"Pościel",
+		"link":"",
+		"comment":"Nie satynowa, szerokość 140cm, małżeńska :)"
+	},
+	{
+		"name":"2 Zestawy do nurkowania z rurką (maska, płetwy, rurka)",
+		"link":"",
+		"comment":"Nasze rozmiary butów: 37, 45"
+	},
+	{
+		"name":"Łuk",
+		"link":"",
+		"comment":"Około 10kg naciągu, dla początkujących, nie sportowy, tradycyjny, nie dłuższy niż Patrycja :)"
+	},
+	{
+		"name":"Suszarka elektryczna do prania",
+		"link":"",
+		"comment":"Minimum 4,5 kg pojemności"
+	},
+	{
+		"name":"Czajnik elektryczny z regulacją temperatury",
+		"link":"",
+		"comment":"Srebrny"
+	},
+	{
+		"name":"Noże kuchenne",
+		"link":"http://ostry-sklep.pl/p/190/292/zestaw-kuchenny-5-czesciowy-5-1163-5-kurier-gratis-zestawy-nozy-kuchennych-victorinox-zestawy-nozy-kuchennych-noze-kuchenne.html",
+		"comment":"Byle ostre ;)"
+	},
+	{
+		"name":"Smartphone",
+		"link":"http://www.ceneo.pl/33076842",
+		"comment":""
+	},
+	{
+		"name":"Tablet",
+		"link":"",
+		"comment":"Dowolny"
+	},
+	{
+		"name":"Pieniądze",
+		"link":"",
+		"comment":"Tego nigdy za wiele ;)"
+	},
+	{
+		"name":"Robot odkurzający",
+		"link":"http://www.ceneo.pl/29268823",
+		"comment":"Roomba, lub podobny"
+	},
+	{
+		"name":"Czytnik e-booków",
+		"link":"",
+		"comment":"Kindle, lub NOOK Simple Touch"
+	},
+	{
+		"name":"Blender stojący",
+		"link":"http://www.skapiec.pl/site/cat/352/comp/982330",
+		"comment":"Stojący, kielich 1.5 litra, srebrno czarny lub srebrny"
+	},
+	{
+		"name":"Elektryczna szatkownica do warzyw",
+		"link":"http://www.mediamarkt.pl/szatkownica-tefal-mb8115,id-954952",
+		"comment":""
+	}
+]

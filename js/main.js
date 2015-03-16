@@ -1,5 +1,22 @@
 (function ($) {
 
+	$.ajax({
+		url:'/presents.json',
+		success: function(data) {
+			console.log(data);
+			var list = $('#present-list');
+			$.each(data, function(){
+				list.append('<dt>'+this.name+'</dt>');
+				var def = $('<dd>'+this.comment+'</dd>');
+				if(this.link) {
+					def.append(' Przykładowy link: <a href="' + this.link +'">' + this.link + '</a>');
+				}
+				list.append(def);
+			});
+			
+		},
+	});
+
 	$(window).scroll(function(){
 		if ($(this).scrollTop() > 100) {
 			$('.scrollup').fadeIn();
@@ -134,5 +151,7 @@
 	}
 	$(window).load(initNice);
 	$(window).resize(initNice);
+
+
 
 })(jQuery);
